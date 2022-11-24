@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emengkeng
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning about blockchain technology
 - 💞️ I’m looking to collaborate on with others who know this field
 - 📫 How to reach me
 
