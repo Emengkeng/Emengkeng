@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Emengkeng
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning about Cyber securrity and blockchain technology
+- 👀 I’m a Backend Developer,
+- 💞️ a Crypto Enthusiast 
+- 🌱 I’m currently learning about blockchain technology and Cyber Security
 - 💞️ I’m looking to collaborate on with others who know this field
 - 📫 How to reach me
 
