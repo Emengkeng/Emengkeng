@@ -12,5 +12,4 @@
 Feel free to connect with me:
 
 [LinkedIn](https://www.linkedin.com/in/jussec) ·  
-[X](https://x.com/emJuslen) ·  
-[Email](mailto:emkjuslen@gmail.com)
+[X](https://x.com/emJuslen) · 
